@@ -1,0 +1,48 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.custom-list {
+    list-style:circle inside url(iacon.png);
+    list-style:
+
+}
+.custom-list li {
+    display: inline-block;
+
+}
+.custom-list1 {
+    list-style: upper-roman;
+}
+.custom-table {
+    width: 100%;
+    border: 1px solid;
+}
+.custom-table td {
+    height: 50px;
+    border: 1px solid;
+    padding: 25px;
+}
+.custom-table1{
+    
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+.custom-table1 td{
+    border: 2px solid green;
+    text-align: right;
+    
+}
+.custom-table1 th{
+    padding: 15px;
+    border: 2px solid green;
+    text-align: right;
+    background-color: lightblue;
+}
+.custom-table2 {
+
+}
+h1 {
+    width: 200px;
+}
